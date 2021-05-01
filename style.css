@@ -1,0 +1,31 @@
+h1{
+    color:greenyellow;
+    border:10px solid dimgray;
+    background-color: dimgray;
+}
+body{
+    background-color: aliceblue;
+}
+img{
+    border:5px solid black;
+    border-radius: 40px;
+}
+.Menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: black;
+    font-size: 20px;
+}
+.Grid{
+    display:flex;
+    flex-grow:wrap;
+}
+.Grid img{
+    border:2px solid black;
+    border-radius:50px;
+}
+.Origami{
+    border-radius:20px;
+    background-color: antiquewhite;
+    width:310px;
+}
